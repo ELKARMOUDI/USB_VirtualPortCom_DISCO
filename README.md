@@ -4,7 +4,7 @@
 ![USB](https://img.shields.io/badge/USB-CDC_Device-2496ED?logo=usb&logoColor=white)
 ![Protocol](https://img.shields.io/badge/Protocol-Virtual_COM_Port-blueviolet)
 
-<img src="https://github.com/user-attachments/assets/7d0d10b5-fbbb-4f97-aea7-ddbb0be63d22" alt="53A6C479-32F1-45D4-82F6-907789DB182C">
+<img src="https://github.com/user-attachments/assets/7d0d10b5-fbbb-4f97-aea7-ddbb0be63d22" width="600" alt="53A6C479-32F1-45D4-82F6-907789DB182C">
 
 
 ## Features
